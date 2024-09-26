@@ -1,8 +1,8 @@
 ## Oii! Eu sou a Lorena Espeche
 <div>
   <a href="https://github.com/lorenaespeche">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenaespeche&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaespeche&layout=compact&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenaespeche&count_private=true&show_icons=true&include_all_commits=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaespeche&layout=compact&theme=radical">
 </div>
 
 ##
