@@ -1,4 +1,4 @@
-## Oii! Eu sou a Lorena Espeche
+## Prazer, me chamo Lorena Espeche ;)
 <div>
   <a href="https://github.com/lorenaespeche">
   <img width= "49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lorenaespeche&count_private=true&show_icons=true&include_all_commits=true&theme=radical">
