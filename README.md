@@ -1,6 +1,4 @@
-<h4 align="left">Prazer, me chamo Lorena Espeche ;)</h4>
-
-##
+## Prazer, me chamo Lorena Espeche ;)
 
 <div>
   <a href="https://github.com/lorenaespeche">
