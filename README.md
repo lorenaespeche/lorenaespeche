@@ -1,4 +1,14 @@
-## Prazer, me chamo Lorena Espeche ;)
+<h2 align="left">🦋 Lorena Espeche</h2>
+
+###
+
+<h5 align="left">Software Developer | Information Systems</h5>
+
+###
+
+<p align="left">Hi, I'm Lorena and I'm studying Information Systems at Uniplac. l've always been curious about system development, and lately l've been focused on building a solid foundation in tech, especially in development. <br>This is where I share what I'm learning and building as I grow in the tech world.</p>
+
+###
 
 <div>
   <a href="https://github.com/lorenaespeche">
