@@ -6,10 +6,6 @@
 
 ###
 
-<p align="left">Hi, I'm Lorena and I'm studying Information Systems at Uniplac. l've always been curious about system development, and lately l've been focused on building a solid foundation in tech, especially in development. <br>This is where I share what I'm learning and building as I grow in the tech world.</p>
-
-###
-
 <div>
   <a href="https://github.com/lorenaespeche">
   <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api?username=lorenaespeche&count_private=true&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3600">
